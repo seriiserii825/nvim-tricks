@@ -6,6 +6,7 @@ Eggs
 Yogurt
 Cottage Cheese
 
+```
 cursor at the end of last line
 ^ - to the start line
 ctrl+v - to start visual block mode
@@ -15,4 +16,5 @@ type 0. - to add 0. to the start of the line
 esc - to exit visual block mode
 gv - to reselect the last visual block
 g + ctrl+a - to increment the numbers
+```
 
